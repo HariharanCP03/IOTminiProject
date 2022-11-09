@@ -1,9 +1,0 @@
-./node_modules
-
-../../node_modules
-
-../../../node_modules
-
-
-./server/PlantDNet.h5
-./server/model.pkl
