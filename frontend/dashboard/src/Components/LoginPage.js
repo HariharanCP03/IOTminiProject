@@ -9,6 +9,7 @@ function LoginPage({ setter }) {
       username: username,
       password: password,
     };
+    console.log(username);
     setter(data);
   };
 
